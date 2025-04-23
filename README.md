@@ -14,7 +14,7 @@ A health-tracking web application — developed for the **CEDT Project**
 ### 🔐 Login Page
 
 <div align="center">
-  <img src="images/login.jpg" alt="Login Page" width="400">
+  <img src="images/login.jpg" alt="Login Page" width="300">
 </div>
 
 - สำหรับเข้าสู่ระบบ  
