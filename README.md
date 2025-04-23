@@ -26,7 +26,7 @@ A health-tracking web application — developed for the **CEDT Project**
 ### 📝 Register Page
 
 <div align="center">
-  <img src="images/register.jpg" alt="Register Page" width="400">
+  <img src="images/register.jpg" alt="Register Page" width="300">
 </div>
 
 - สำหรับสมัครสมาชิกใหม่  
@@ -38,7 +38,7 @@ A health-tracking web application — developed for the **CEDT Project**
 ### 👤 Profile Page
 
 <div align="center">
-  <img src="images/profile.jpg" alt="Profile Page" width="400">
+  <img src="images/profile.jpg" alt="Profile Page" width="300">
 </div>
 
 - แสดงข้อมูลส่วนตัวของผู้ใช้  
@@ -48,7 +48,7 @@ A health-tracking web application — developed for the **CEDT Project**
 ### 📊 Form Page
 
 <div align="center">
-  <img src="images/report.jpg" alt="Report Page" width="500">
+  <img src="images/report.jpg" alt="Report Page" width="300">
 </div>
 
 - แจ้งปัญหาหรือสิ่งที่สงสัย 
@@ -60,10 +60,10 @@ A health-tracking web application — developed for the **CEDT Project**
 <table align="center">
   <tr>
     <td align="center">
-      <img src="images/health1.1.jpg" alt="Health Page 1" width="400">
+      <img src="images/health1.1.jpg" alt="Health Page 1" width="300">
     </td>
     <td align="center">
-      <img src="images/health1.2.jpg" alt="Health Page 2" width="400">
+      <img src="images/health1.2.jpg" alt="Health Page 2" width="300">
     </td>
   </tr>
 </table>
