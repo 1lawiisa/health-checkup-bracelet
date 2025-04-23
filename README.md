@@ -57,11 +57,15 @@ A health-tracking web application — developed for the **CEDT Project**
 
 ### 💖 Health Page
 
-<div align="center">
-  <img src="images/health1.1.jpg" alt="Health Page 1" width="500">
-</div>
-<div align="center">
-  <img src="images/health1.2.jpg" alt="Health Page 2" width="500">
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/health1.1.jpg" alt="Health Page 1" width="400">
+    </td>
+    <td align="center">
+      <img src="images/health1.2.jpg" alt="Health Page 2" width="400">
+    </td>
+  </tr>
+</table>
 
 - บริการออนไลน์
